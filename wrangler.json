@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "odd-cake-b773",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "99482881-32d3-4cc1-8c0f-5a8a6f597136",
+      "database_name": "red-bar-2fcd-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
